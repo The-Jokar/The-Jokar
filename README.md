@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joseph Riley</h1>
 <h3 align="center">An aspiring Business/Quantitative analyst</h3>
 
-- 🔭 I’m currently working on [Web scraping data to train an AI model](https://github.com/The-Jokar/web_scraper)
+- 🔭 I’m currently working on [Training an AI model to give personalised news headlines](https://github.com/The-Jokar/web_scraper)
 
 - 🌱 I’m currently learning **HTML and SQL**
 
-- 👨‍💻 My other projects [Market basket analysis for supermakret](https://github.com/The-Jokar/supermarket_analysis)
-
--  [Web scraper](https://github.com/The-Jokar/web_scraper)
+- 👨‍💻 My other projects [Market basket analysis for supermarket](https://github.com/The-Jokar/supermarket_analysis), [API Web scraper for Stock Market data](https://github.com/The-Jokar/web_scraper)
 
 - 📫 How to reach me **jril0008@student.monash.edu**
 
