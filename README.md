@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph Riley</h1>
 <h3 align="center">An aspiring Business/Quantitative analyst</h3>
 
-- 🔭 I’m currently working on [Training an AI model to give a personalised schedule](https://github.com/The-Jokar/web_scraper)
+- 🔭 I’m currently working on [Working on a personalised gym tracker](https://github.com/The-Jokar/gym_tracker)
 
 - 🌱 I’m currently learning **HTML and SQL**
 
